@@ -1,0 +1,36 @@
+body{
+    background-image: url(./yiqun-tang-3o7O_6fi7Qc-unsplash\ \(1\).jpg);
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.box{
+    background-color:rgb(41, 203, 215);
+    width: 1000px;
+    height: 600px;
+    margin-left: 25%;
+    margin-top: 100px;
+    justify-content: center;
+}
+.box1{
+    background-color: #FF9933;
+    width: 100%;
+    height:200px ;
+}
+.box2{
+    background-color: #FFFFFF;
+    display: flex;
+    width: 100%;
+    height: 200px;
+}
+.box3{
+    background-color: #138808;
+    display: flex;
+    width: 100%;
+    height: 200px;
+}
+.ashok_chakra{
+    position: relative;
+    margin-left: 40%;
+    
+}
